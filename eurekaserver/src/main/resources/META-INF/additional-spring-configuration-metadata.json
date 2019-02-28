@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.cloud.config.exposure",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.exposure'"
+  },
+  {
+    "name": "spring.cloud.config.include",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.include'"
+  },
+  {
+    "name": "spring.cloud.config.web",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.web'"
+  },
+  {
+    "name": "spring.cloud.config.management",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.management'"
+  },
+  {
+    "name": "spring.cloud.config.endpoints",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.endpoints'"
+  }
+]}
